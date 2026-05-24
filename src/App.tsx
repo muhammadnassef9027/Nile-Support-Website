@@ -3,10 +3,9 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
 import Story from './components/Story';
-import Team from './components/Team';
 import Services from './components/Services';
 import WhyChooseUs from './components/WhyChooseUs';
-import Pricing from './components/Pricing';
+import PricingCta from './components/PricingCta';
 import TrustCompliance from './components/TrustCompliance';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -20,7 +19,7 @@ function App() {
       <Story />
       <WhyChooseUs />
       <Services />
-      <Pricing />
+      <PricingCta />
       <Contact />
       <Footer />
     </div>
