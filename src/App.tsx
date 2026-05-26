@@ -5,6 +5,7 @@ import About from './components/About';
 import Story from './components/Story';
 import Services from './components/Services';
 import WhyChooseUs from './components/WhyChooseUs';
+import Testimonials from './components/Testimonials';
 import PricingCta from './components/PricingCta';
 import TrustCompliance from './components/TrustCompliance';
 import Contact from './components/Contact';
@@ -19,6 +20,7 @@ function App() {
       <Story />
       <WhyChooseUs />
       <Services />
+      <Testimonials />
       <PricingCta />
       <Contact />
       <Footer />
