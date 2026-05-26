@@ -9,7 +9,7 @@ const Testimonials = () => {
       author: "Rob",
       verified: true,
       rating: "5.0",
-      badge: "Short-Term Trial · Cold Calling Campaign"
+      badge: "Cold Calling Campaign"
     },
     {
       stars: 5,
