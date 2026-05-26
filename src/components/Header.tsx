@@ -67,7 +67,7 @@ const Header = () => {
             <a href={isInbound ? '/inbound' : '/'} onClick={(e) => { e.preventDefault(); navigate(isInbound ? '/inbound' : '/'); }}>
               <img
                 src="/Logo-navbar.png"
-                alt="Nile Support LLC"
+                alt="Nile Support LLC Logo"
                 className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 transform group-hover:scale-110 transition-all duration-300 bg-transparent"
               />
             </a>
